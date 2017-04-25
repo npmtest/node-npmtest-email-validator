@@ -1,6 +1,6 @@
 # npmtest-email-validator
 
-#### test coverage for  [email-validator (v1.0.7)](http://github.com/Sembiance/email-validator)  [![npm package](https://img.shields.io/npm/v/npmtest-email-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-email-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-email-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-email-validator)
+#### basic test coverage for  [email-validator (v1.0.7)](http://github.com/Sembiance/email-validator)  [![npm package](https://img.shields.io/npm/v/npmtest-email-validator.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-email-validator) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-email-validator.svg)](https://travis-ci.org/npmtest/node-npmtest-email-validator)
 
 #### Provides a fast, pretty robust e-mail validator. Only checks form, not function.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-email-validator/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-email-validator/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-email-validator/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-email-validator/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-email-validator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-email-validator/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-email-validator/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-email-validator/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-email-validator/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-email-validator/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-email-validator/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-email-validator/build/coverage.html/index.html)
 
@@ -86,7 +86,8 @@
     },
     "scripts": {},
     "typings": "index.d.ts",
-    "version": "1.0.7"
+    "version": "1.0.7",
+    "bin": {}
 }
 ```
 
